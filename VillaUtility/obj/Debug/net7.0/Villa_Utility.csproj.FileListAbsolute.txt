@@ -1,0 +1,12 @@
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\bin\Debug\net7.0\Villa_Utility.deps.json
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\bin\Debug\net7.0\Villa_Utility.dll
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\bin\Debug\net7.0\Villa_Utility.pdb
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\obj\Debug\net7.0\Villa_Utility.csproj.AssemblyReference.cache
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\obj\Debug\net7.0\Villa_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\obj\Debug\net7.0\Villa_Utility.AssemblyInfoInputs.cache
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\obj\Debug\net7.0\Villa_Utility.AssemblyInfo.cs
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\obj\Debug\net7.0\Villa_Utility.csproj.CoreCompileInputs.cache
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\obj\Debug\net7.0\Villa_Utility.dll
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\obj\Debug\net7.0\refint\Villa_Utility.dll
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\obj\Debug\net7.0\Villa_Utility.pdb
+D:\Programming\ASP.Net\youtube\waheed tech\VillaAPI\VillaUtility\obj\Debug\net7.0\ref\Villa_Utility.dll
